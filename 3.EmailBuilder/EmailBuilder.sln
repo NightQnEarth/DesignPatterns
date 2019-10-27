@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailBuilder", "EmailBuilder\EmailBuilder.csproj", "{B2836A41-E1A1-4BF0-BDD2-BB93A2CA4B75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2836A41-E1A1-4BF0-BDD2-BB93A2CA4B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2836A41-E1A1-4BF0-BDD2-BB93A2CA4B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2836A41-E1A1-4BF0-BDD2-BB93A2CA4B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2836A41-E1A1-4BF0-BDD2-BB93A2CA4B75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
