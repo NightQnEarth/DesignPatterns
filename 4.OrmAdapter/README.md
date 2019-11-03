@@ -1,1 +1,1 @@
-﻿![Task](task.jpg)
+﻿![Task](task.png)
