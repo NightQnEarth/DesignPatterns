@@ -1,1 +1,1 @@
-![Diagram](diagram.png)
+![Task](task.png)
